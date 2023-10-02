@@ -24,3 +24,4 @@ elif user_turn=='s' and computer_turn=='p':
     print(f'Computer choose:{computer_turn},You Choose: {user_turn}')
 elif user_turn == computer_turn:
     print('Match Drawn')
+    print(f'Computer choose:{computer_turn},You Choose: {user_turn}')
